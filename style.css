@@ -1,0 +1,33 @@
+body 
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    font-size: 55px;
+    color: hotpink;
+    font-weight: lighter;
+    font-size: 2em;
+}
+
+p
+ {
+    font-weight: bolder;
+    color: hotpink;
+    font-size: 30px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    background-color: rgb(177, 247, 250);
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 40px;
+}
+
+a {
+    color: crimson;
+}
+
+img {
+    height: 300px;
+    width: 100%;
+    max-width: 500px; 
+}
